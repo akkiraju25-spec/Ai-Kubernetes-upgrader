@@ -830,4 +830,4 @@ Always separate:
 * Possible Issues
 * Unknown Risks
 
-Unknown risks must reduce the final confidence score
+Unknown risks must reduce the final confidence score.
